@@ -1,0 +1,143 @@
+/*////////////////////////////////// NAVIGATION ///////////////////*/
+logo:hover {
+    background-image: url(../img/chimney_logo_green.png); 
+    margin-top: -10px;
+    width: 60px;
+    height: 58px;
+}
+.navbar {
+    margin: 0;
+    padding-bottom: 10px;
+}
+.navbar-inverse .navbar-nav li a {
+    color: white;
+}
+.navbar-inverse .navbar-nav li a:hover {
+    color: #66BEA2;
+}
+.container-fluid {
+    padding-top: 10px;
+    margin: 0 auto;
+}
+.navbar-nav {
+    padding: 15px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-size: 19px;
+}
+.navbar-brand img {
+    margin-top: -10px;
+    width: 60px;
+    height: 58px;
+}
+.center {
+    padding-left: 350px;
+    margin: 0 auto;
+}
+.bggray{
+    background: #f0f0f0;
+    padding: 4em 0;
+}
+
+/*// / / // / \/ / // / / BODY / // / / / // /  / / */
+
+.banner {
+    position: relative;
+}
+.caption p {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: 3.0em;
+    letter-spacing: 2px;
+    top: 39%;
+    left: 0;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    padding: 22px;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase
+}
+
+/*/ / // // / // / / // / / /   SERVICES  / / / / / / / // */
+
+.service-block {
+    width: 100%;
+    margin-bottom: 22px;
+    position: relative;
+    background-color: #000;
+    border: 10x solid #fff;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.service-block-overlay {
+    position: absolute;
+    margin-bottom: 22px;
+    height: 180px;
+    width: 100%;
+    top: 0;
+    padding-top: 40px;
+    word-wrap: break-word;
+    left: 0;
+    z-index: 1;
+}
+.service-block2 {
+    width: 100%;
+    margin-bottom: 22px;
+    position: relative;
+    background-color: #000;
+    border: 10x solid #fff;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.service-block-overlay2 {
+    position: absolute;
+    margin-bottom: 22px;
+    height: 180px;
+    width: 100%;
+    top: 180px;
+    padding-top: 40px;
+    word-wrap: break-word;
+    left: 0;
+    z-index: 1;
+}
+
+/*/ // / / / // / // / // / / /VIDEO CASE // / // / / / / */
+
+.graybg {
+    margin-top: 450px;
+    height: 500px;
+    background-color: #F0F0F0;
+}
+.video-case {
+    width: 100%;
+    margin-bottom: 22px;
+    position: relative;
+    border: 10x solid #fff;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.video-case-content {
+    position: absolute;
+    margin-bottom: 22px;
+    height: 330px;
+    width: 330px;
+    top: 50px;
+    padding-top: 110px;
+    word-wrap: break-word;
+    left: 0;
+    z-index: 1;
+}
