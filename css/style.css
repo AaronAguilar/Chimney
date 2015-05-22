@@ -70,6 +70,77 @@ h2 {
 
 /*/ / // // / // / / // / / /   SERVICES  / / / / / / / // */
 
+/*/ / // /  // // / /  CREATIONS /// / // / */
+.featurefilm {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/featurefilm.jpg); 
+    background-size: cover;
+}
+.advertising {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/advertising.jpg); 
+    background-size: cover;
+}
+.tv {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/tv.jpg); 
+    background-size: cover;
+}
+.communication {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/communication.jpg); 
+    background-size: cover;
+}
+.events {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/events.jpg); 
+    background-size: cover;
+}
+.music {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/music.jpg); 
+    background-size: cover;
+}
+.volve {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/volve.jpg); 
+    background-size: cover;
+}
+.nrma {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/nrma.jpg); 
+    background-size: cover;
+}
+.chanel {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/chanel.jpg); 
+    background-size: cover;
+}
+.sports {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(../img/sports.jpg); 
+    background-size: cover;
+}
 .service-block {
     width: 100%;
     margin-bottom: 22px;
